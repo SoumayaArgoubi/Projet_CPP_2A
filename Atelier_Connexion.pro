@@ -28,12 +28,14 @@ SOURCES += \
         main.cpp \
         mainwindow.cpp \
     connection.cpp \
-    etudiant.cpp
+    etudiant.cpp \
+    enseignant.cpp
 
 HEADERS += \
         mainwindow.h \
     connection.h \
-    etudiant.h
+    etudiant.h \
+    enseignant.h
 
 FORMS += \
         mainwindow.ui
